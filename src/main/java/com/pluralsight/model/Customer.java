@@ -1,5 +1,9 @@
 package com.pluralsight.model;
 
+/**
+ * @author viks
+ *
+ */
 public class Customer {
 	private String firstName;
 	private String lastName;
